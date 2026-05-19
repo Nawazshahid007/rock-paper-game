@@ -25,3 +25,8 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 ## 💡 About Project
 
 This project is built to practice JavaScript logic, DOM manipulation, and event handling. It helps improve problem-solving skills in frontend development by creating a simple game where the user plays against the computer.
+
+## 📫 Author
+
+- GitHub: https://github.com/Nawazshahid007
+- LinkedIn: https://www.linkedin.com/in/shahid-nawaz-b7664b3a4
